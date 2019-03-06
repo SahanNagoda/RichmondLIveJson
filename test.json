@@ -1,0 +1,55 @@
+{
+  "battingTeam": "RICHMOND",
+  "recentOvers": [
+    [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
+    ],
+    [
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      ""
+    ],
+    [
+      "1",
+      "2",
+      "3",
+      "4"
+    ]
+  ],
+  "score": "00/0",
+  "target": "Lead by 000",
+  "overs": "00.0",
+  "runRate": "0.00",
+  "string": "Lovers Quarrel will be held on 15th and 16th March 2019",
+  "batsmanOne": {
+    "name": "Batsman 1",
+    "runs": "00(00)"
+  },
+  "batsmanTwo": {
+    "name": "Batsman 2",
+    "runs": "00(00)"
+  },
+  "bowlerOne": {
+    "name": "Bowler 1",
+    "figures": "0/00(00.0)"
+  },
+  "bowlerTwo": {
+    "name": "Bowler 2",
+    "figures": "0/00(00.0)"
+  },
+  "extras": {
+    "totalExtras": 00,
+    "noBalls": 0,
+    "wides": 0,
+    "legByes": 0
+  },
+  "lastWicket": "Supun Lakshan 41(74) at Total 123(32.3)"
+}
