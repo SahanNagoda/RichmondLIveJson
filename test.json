@@ -3,18 +3,18 @@
   "recentOvers": [
     [
       "1",
-      "0",
-      "0",
-      "0",
-      "0",
-      "0"
+      "1",
+      "1",
+      "1",
+      "1",
+      "1"
     ],
     [
-      "0",
-      "0",
-      "0",
-      "0",
-      "0",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
       ""
     ],
     [
@@ -24,32 +24,32 @@
       "4"
     ]
   ],
-  "score": "00/0",
-  "target": "Lead by 000",
-  "overs": "00.0",
-  "runRate": "0.00",
-  "string": "Lovers Quarrel will be held on 15th and 16th March 2019",
+  "score": "11/1",
+  "target": "Lead by 111",
+  "overs": "11.1",
+  "runRate": "1.11",
+  "string": "Lovers Quarrel will be held on 15th and 16th March 2119",
   "batsmanOne": {
     "name": "Batsman 1",
-    "runs": "00(00)"
+    "runs": "11(11)"
   },
   "batsmanTwo": {
     "name": "Batsman 2",
-    "runs": "00(00)"
+    "runs": "11(11)"
   },
   "bowlerOne": {
     "name": "Bowler 1",
-    "figures": "0/00(00.0)"
+    "figures": "1/11(11.1)"
   },
   "bowlerTwo": {
     "name": "Bowler 2",
-    "figures": "0/00(00.0)"
+    "figures": "1/11(11.1)"
   },
   "extras": {
-    "totalExtras": 00,
-    "noBalls": 0,
-    "wides": 0,
-    "legByes": 0
+    "totalExtras": 11,
+    "noBalls": 1,
+    "wides": 1,
+    "legByes": 1
   },
   "lastWicket": "Supun Lakshan 41(74) at Total 123(32.3)"
 }
