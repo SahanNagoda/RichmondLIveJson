@@ -4,14 +4,6 @@
     [
       "1",
       "2",
-      "1",
-      "4",
-      "w",
-      "lb"
-    ],
-    [
-      "1",
-      "2",
       "3",
       "4",
       "w",
@@ -39,10 +31,6 @@
   },
   "bowlerOne": {
     "name": "Charith Asalanka",
-    "figures": "1/46(12.3)"
-  },
-  "bowlerTwo": {
-    "name": "Dhananjaya de Silva",
     "figures": "1/46(12.3)"
   },
   "extras": {
