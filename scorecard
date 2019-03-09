@@ -1,0 +1,80 @@
+{
+  "teamOneName": "Richmond College",
+  "teamOneBat": [
+    {
+      "name": "C. Asalanka *",
+      "runs": "100",
+      "balls": "10",
+      "fours": "20",
+      "sixes": "47",
+      "strikeRate": "10.00"
+    },
+    {
+      "name": "C. Asalanka *",
+      "runs": "100",
+      "balls": "10",
+      "fours": "20",
+      "sixes": "47",
+      "strikeRate": "10.00"
+    }
+  ],
+  "teamTwoBall": [
+    {
+      "name": "C. Asalanka",
+      "overs": "12.2",
+      "maiden": "10",
+      "runs": "20",
+      "wickets": "47",
+      "econ": "3.40"
+    },
+    {
+      "name": "C. Asalanka",
+      "overs": "12.2",
+      "maiden": "10",
+      "runs": "20",
+      "wickets": "47",
+      "econ": "3.40"
+    }
+  ],
+  "teamOneExtras": "11 (lb 4, nb 1, w 6)",
+  "teamOneTotal": "175/5 (18.3 Overs, RR: 9.45)",
+  "teamTwoName": "Mahinda College",
+  "teamTwoBat": [
+    {
+      "name": "C. Asalanka *",
+      "runs": "100",
+      "balls": "10",
+      "fours": "20",
+      "sixes": "47",
+      "strikeRate": "10.00"
+    },
+    {
+      "name": "C. Asalanka *",
+      "runs": "100",
+      "balls": "10",
+      "fours": "20",
+      "sixes": "47",
+      "strikeRate": "10.00"
+    }
+  ],
+  "teamOneBall": [
+    {
+      "name": "C. Asalanka",
+      "overs": "12.2",
+      "maiden": "10",
+      "runs": "20",
+      "wickets": "47",
+      "econ": "3.40"
+    },
+    {
+      "name": "C. Asalanka",
+      "overs": "12.2",
+      "maiden": "10",
+      "runs": "20",
+      "wickets": "47",
+      "econ": "3.40"
+    }
+  ],
+  "teamTwoExtras": "11 (lb 4, nb 1, w 6)",
+  "teamTwoTotal": "175/5 (18.3 Overs, RR: 9.45)"
+}
