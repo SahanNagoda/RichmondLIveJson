@@ -3,43 +3,43 @@
   "battingTeam": "RICHMOND",
   "recentOver": [
     [
-      "1",
-      "2",
-      "3",
-      "4",
-      "w",
-      "lb"
+      "0",
+      "0",
+      "0",
+      "0",
+      "0",
+      "0"
     ],
     [
-      "1",
-      "2",
-      "3",
-      "4"
+      "0",
+      "0",
+      "0",
+      "0"
     ]
   ],
   "streamURL":"https://www.youtube.com/watch?v=S9RlUXteNnw",
-  "score": "120/4",
+  "score": "00/0",
   "target": "Lead by 250",
-  "overs": "20.3",
-  "runRate": "4.56",
-  "string": "Richmond College won the toss and elected to bat first",
+  "overs": "TBA...",
+  "runRate": "0.00",
+  "string": "Will be announced soon!",
   "batsmanOne": {
-    "name": "Charith Asalanka",
-    "runs": "46(73)"
+    "name": "Batsman One",
+    "runs": "00(00)"
   },
   "batsmanTwo": {
-    "name": "Wanindu Hasaranga",
-    "runs": "46(73)"
+    "name": "Batsman Two",
+    "runs": "00(00)"
   },
   "bowler": {
-    "name": "Charith Asalanka",
-    "figures": "1/46(12.3)"
+    "name": "Bowler",
+    "figures": "0/00(00.0)"
   },
   "extras": {
-    "totalExtras": 16,
-    "noBalls": 4,
-    "wides": 9,
-    "legByes": 3
+    "totalExtras": 00,
+    "noBalls": 0,
+    "wides": 0,
+    "legByes": 0
   },
   "lastWicket": "Supun Lakshan 41(74) at Total 123(32.3)"
 }
