@@ -1,7 +1,25 @@
 {
-  "updates": [
-    {"day": "1", "session": "1", "time": "10:30", "title": "Title 1", "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi non rutrum erat, sit amet interdum massa. Cras sit amet vulputate lectus, congue sollicitudin purus. Nam aliquam vestibulum ex, sed dictum odio semper vitae. Mauris faucibus imperdiet libero at suscipit. Sed finibus turpis vel orci hendrerit posuere."},
-    {"day": "1", "session": "2", "time": "15:30", "title": "Title 2", "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi non rutrum erat, sit amet interdum massa. Cras sit amet vulputate lectus, congue sollicitudin purus. Nam aliquam vestibulum ex, sed dictum odio semper vitae. Mauris faucibus imperdiet libero at suscipit. Sed finibus turpis vel orci hendrerit posuere."},
-    {"day": "2", "session": "1", "time": "08:30", "title": "Title 3", "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi non rutrum erat, sit amet interdum massa. Cras sit amet vulputate lectus, congue sollicitudin purus. Nam aliquam vestibulum ex, sed dictum odio semper vitae. Mauris faucibus imperdiet libero at suscipit. Sed finibus turpis vel orci hendrerit posuere."},
-  ]
+	"updates": [
+    {
+			"day": "1",
+			"session": "1",
+			"time": "10:30",
+			"title": "Title 1",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi non rutrum erat, sit amet interdum massa. Cras sit amet vulputate lectus, congue sollicitudin purus. Nam aliquam vestibulum ex, sed dictum odio semper vitae. Mauris faucibus imperdiet libero at suscipit. Sed finibus turpis vel orci hendrerit posuere."
+		},
+		{
+			"day": "1",
+			"session": "2",
+			"time": "15:30",
+			"title": "Title 2",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi non rutrum erat, sit amet interdum massa. Cras sit amet vulputate lectus, congue sollicitudin purus. Nam aliquam vestibulum ex, sed dictum odio semper vitae. Mauris faucibus imperdiet libero at suscipit. Sed finibus turpis vel orci hendrerit posuere."
+		},
+		{
+			"day": "2",
+			"session": "1",
+			"time": "08:30",
+			"title": "Title 3",
+			"description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi non rutrum erat, sit amet interdum massa. Cras sit amet vulputate lectus, congue sollicitudin purus. Nam aliquam vestibulum ex, sed dictum odio semper vitae. Mauris faucibus imperdiet libero at suscipit. Sed finibus turpis vel orci hendrerit posuere."
+		}
+	]
 }
