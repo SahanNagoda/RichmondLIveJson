@@ -3,43 +3,43 @@
   "battingTeam": "RICHMOND",
   "recentOver": [
     [
-      "0",
-      "0",
-      "0",
-      "0",
-      "0",
-      "0"
+      "1",
+      "1",
+      "1",
+      "1",
+      "1",
+      "1"
     ],
     [
-      "0",
-      "0",
-      "0",
-      "0"
+      "1",
+      "1",
+      "1",
+      "1"
     ]
   ],
   "streamURL":"https://www.youtube.com/watch?v=S9RlUXteNnw",
-  "score": "00/0",
+  "score": "11/11",
   "target": "Lead by 250",
   "overs": "TBA...",
-  "runRate": "0.00",
+  "runRate": "1.11",
   "string": "Will be announced soon!",
   "batsmanOne": {
     "name": "Batsman One",
-    "runs": "00(00)"
+    "runs": "11(11)"
   },
   "batsmanTwo": {
     "name": "Batsman Two",
-    "runs": "00(00)"
+    "runs": "11(11)"
   },
   "bowler": {
     "name": "Bowler",
-    "figures": "0/00(00.0)"
+    "figures": "1/11(11.0)"
   },
   "extras": {
-    "totalExtras": 00,
-    "noBalls": 0,
-    "wides": 0,
-    "legByes": 0
+    "totalExtras": 1,
+    "noBalls": 1,
+    "wides": 1,
+    "legByes": 1
   },
   "lastWicket": "Supun Lakshan 41(74) at Total 123(32.3)"
 }
