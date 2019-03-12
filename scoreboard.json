@@ -1,180 +1,180 @@
 {
   "Richmond Batters": [
     {
-      "name": "Sukka",
-      "runs": "1",
-      "balls": "1",
-      "m": "1",
-      "4s": "1",
-      "6s": "1",
-      "s/r": "1"
+      "name": "Batsman 1",
+      "runs": "0",
+      "balls": "0",
+      "m": "0",
+      "4s": "0",
+      "6s": "0",
+      "s/r": "000"
     },
     {
-      "name": "Kabaraya",
-      "runs": "1",
-      "balls": "1",
-      "m": "1",
-      "4s": "1",
-      "6s": "1",
-      "s/r": "1"
+      "name": "Batsman 2",
+      "runs": "0",
+      "balls": "0",
+      "m": "0",
+      "4s": "0",
+      "6s": "0",
+      "s/r": "0"
     },
     {
-      "name": "Utte Aiyye",
-      "runs": "1",
-      "balls": "1",
-      "m": "1",
-      "4s": "1",
-      "6s": "1",
-      "s/r": "1"
+      "name": "Batsman 3",
+      "runs": "0",
+      "balls": "0",
+      "m": "0",
+      "4s": "0",
+      "6s": "0",
+      "s/r": "0"
     },
     {
-      "name": "ඉත්තැවා",
-      "runs": "1",
-      "balls": "1",
-      "m": "1",
-      "4s": "1",
-      "6s": "1",
-      "s/r": "1"
+      "name": "Batsman 4",
+      "runs": "0",
+      "balls": "0",
+      "m": "0",
+      "4s": "0",
+      "6s": "0",
+      "s/r": "0"
     },
     {
-      "name": "නිට්තැවා",
-      "runs": "1",
-      "balls": "1",
-      "m": "1",
-      "4s": "1",
-      "6s": "1",
-      "s/r": "111%"
+      "name": "Batsman 5",
+      "runs": "0",
+      "balls": "0",
+      "m": "0",
+      "4s": "0",
+      "6s": "0",
+      "s/r": "0"
     }
   ],
   "Mahinda Batters": [
     {
-      "name": "Jabbe",
-      "runs": "1",
-      "balls": "1",
-      "m": "1",
-      "4s": "1",
-      "6s": "1",
-      "s/r": "1"
+      "name": "Batsman 1",
+      "runs": "0",
+      "balls": "0",
+      "m": "0",
+      "4s": "0",
+      "6s": "0",
+      "s/r": "0"
     },
     {
-      "name": "dfs",
-      "runs": "1",
-      "balls": "1",
-      "m": "1",
-      "4s": "1",
-      "6s": "1",
-      "s/r": "1"
+      "name": "Batsman 2",
+      "runs": "0",
+      "balls": "0",
+      "m": "0",
+      "4s": "0",
+      "6s": "0",
+      "s/r": "0"
     },
     {
-      "name": "fgdg",
-      "runs": "1",
-      "balls": "1",
-      "m": "1",
-      "4s": "1",
-      "6s": "1",
-      "s/r": "1"
+     "name": "Batsman 3",
+      "runs": "0",
+      "balls": "0",
+      "m": "0",
+      "4s": "0",
+      "6s": "0",
+      "s/r": "0"
     },
     {
-      "name": "sdfsdf",
-      "runs": "1",
-      "balls": "1",
-      "m": "1",
-      "4s": "1",
-      "6s": "1",
-      "s/r": "1"
+      "name": "Batsman 4",
+      "runs": "0",
+      "balls": "0",
+      "m": "0",
+      "4s": "0",
+      "6s": "0",
+      "s/r": "0"
     },
     {
-      "name": "1231rfd",
-      "runs": "1",
-      "balls": "1",
-      "m": "1",
-      "4s": "1",
-      "6s": "1",
-      "s/r": "1"
+      "name": "Batsman 5",
+      "runs": "0",
+      "balls": "0",
+      "m": "0",
+      "4s": "0",
+      "6s": "0",
+      "s/r": "0"
     }
   ],
    "Richmond Bowlers": [
     {
-      "name": "Sukka",
-      "overs": "1",
-      "maiden": "1",
-      "runs": "1",
-      "wickets": "1",
-      "econ": "1"
+      "name": "Bowler 1",
+      "overs": "0",
+      "maiden": "0",
+      "runs": "0",
+      "wickets": "0",
+      "econ": "0"
     },
     {
-      "name": "kukka",
-      "overs": "1",
-      "maiden": "1",
-      "runs": "1",
-      "wickets": "1",
-      "econ": "1"
+       "name": "Bowler 2",
+      "overs": "0",
+      "maiden": "0",
+      "runs": "0",
+      "wickets": "0",
+      "econ": "0"
     },
     {
-      "name": "Bukka",
-      "overs": "1",
-      "maiden": "1",
-      "runs": "1",
-      "wickets": "1",
-      "econ": "1"
+      "name": "Bowler 3",
+      "overs": "0",
+      "maiden": "0",
+      "runs": "0",
+      "wickets": "0",
+      "econ": "0"
     },
     {
-     "name": "Lukka",
-      "overs": "1",
-      "maiden": "1",
-      "runs": "1",
-      "wickets": "1",
-      "econ": "1"
+      "name": "Bowler 4",
+      "overs": "0",
+      "maiden": "0",
+      "runs": "0",
+      "wickets": "0",
+      "econ": "0"
     },
     {
-      "name": "Wukka",
-      "overs": "1",
-      "maiden": "1",
-      "runs": "1",
-      "wickets": "1",
-      "econ": "1"
+      "name": "Bowler 5",
+      "overs": "0",
+      "maiden": "0",
+      "runs": "0",
+      "wickets": "0",
+      "econ": "0"
     }
   ],
   "Mahinda Bowlers": [
     {
-      "name": "Sukka",
-      "overs": "1",
-      "maiden": "1",
-      "runs": "1",
-      "wickets": "1",
-      "econ": "1"
+      "name": "Bowler 1",
+      "overs": "0",
+      "maiden": "0",
+      "runs": "0",
+      "wickets": "0",
+      "econ": "0"
     },
     {
-      "name": "kukka",
-      "overs": "1",
-      "maiden": "1",
-      "runs": "1",
-      "wickets": "1",
-      "econ": "1"
+      "name": "Bowler 2",
+      "overs": "0",
+      "maiden": "0",
+      "runs": "0",
+      "wickets": "0",
+      "econ": "0"
     },
     {
-      "name": "Bukka",
-      "overs": "1",
-      "maiden": "1",
-      "runs": "1",
-      "wickets": "1",
-      "econ": "1"
+      "name": "Bowler 3",
+      "overs": "0",
+      "maiden": "0",
+      "runs": "0",
+      "wickets": "0",
+      "econ": "0"
     },
     {
-     "name": "Lukka",
-      "overs": "1",
-      "maiden": "1",
-      "runs": "1",
-      "wickets": "1",
-      "econ": "1"
+      "name": "Bowler 4",
+      "overs": "0",
+      "maiden": "0",
+      "runs": "0",
+      "wickets": "0",
+      "econ": "0"
     },
     {
-      "name": "Wukka",
-      "overs": "1",
-      "maiden": "1",
-      "runs": "1",
-      "wickets": "1",
-      "econ": "1"
+      "name": "Bowler 5",
+      "overs": "0",
+      "maiden": "0",
+      "runs": "0",
+      "wickets": "0",
+      "econ": "0"
     }
   ],
 }
