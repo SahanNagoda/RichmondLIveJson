@@ -100,7 +100,7 @@
       "maiden": "1",
       "runs": "1",
       "wickets": "1",
-      "econ": "1",
+      "econ": "1"
     },
     {
       "name": "kukka",
@@ -108,7 +108,7 @@
       "maiden": "1",
       "runs": "1",
       "wickets": "1",
-      "econ": "1",
+      "econ": "1"
     },
     {
       "name": "Bukka",
@@ -116,7 +116,7 @@
       "maiden": "1",
       "runs": "1",
       "wickets": "1",
-      "econ": "1",
+      "econ": "1"
     },
     {
      "name": "Lukka",
@@ -124,7 +124,7 @@
       "maiden": "1",
       "runs": "1",
       "wickets": "1",
-      "econ": "1",
+      "econ": "1"
     },
     {
       "name": "Wukka",
@@ -132,7 +132,7 @@
       "maiden": "1",
       "runs": "1",
       "wickets": "1",
-      "econ": "1",
+      "econ": "1"
     }
   ],
   "Mahinda Bowlers": [
@@ -142,7 +142,7 @@
       "maiden": "1",
       "runs": "1",
       "wickets": "1",
-      "econ": "1",
+      "econ": "1"
     },
     {
       "name": "kukka",
@@ -150,7 +150,7 @@
       "maiden": "1",
       "runs": "1",
       "wickets": "1",
-      "econ": "1",
+      "econ": "1"
     },
     {
       "name": "Bukka",
@@ -158,7 +158,7 @@
       "maiden": "1",
       "runs": "1",
       "wickets": "1",
-      "econ": "1",
+      "econ": "1"
     },
     {
      "name": "Lukka",
@@ -166,7 +166,7 @@
       "maiden": "1",
       "runs": "1",
       "wickets": "1",
-      "econ": "1",
+      "econ": "1"
     },
     {
       "name": "Wukka",
@@ -174,7 +174,7 @@
       "maiden": "1",
       "runs": "1",
       "wickets": "1",
-      "econ": "1",
+      "econ": "1"
     }
   ],
 }
