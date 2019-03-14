@@ -1,180 +1,164 @@
 {
-  "Richmond Batters": [
+  "teamOneName": "Richmond College",
+  "teamOneBatting": [
     {
-      "name": "Batsman 1",
-      "runs": "0",
-      "balls": "0",
-      "m": "0",
-      "4s": "0",
+      "name": "Adithya Siriwardhana ",
+      "runs": "24",
+      "balls": "36",
+      "4s": "3",
       "6s": "0",
-      "s/r": "000"
+      "s/r": "66.67"
     },
     {
-      "name": "Batsman 2",
-      "runs": "0",
-      "balls": "0",
-      "m": "0",
+      "name": "Kamindu Mendis ",
+      "runs": "9",
+      "balls": "15",
       "4s": "0",
       "6s": "0",
-      "s/r": "0"
+      "s/r": "60.00"
     },
     {
-      "name": "Batsman 3",
-      "runs": "0",
-      "balls": "0",
-      "m": "0",
+      "name": "Dhananjaya Lakshan ",
+      "runs": "6",
+      "balls": "10",
       "4s": "0",
       "6s": "0",
-      "s/r": "0"
+      "s/r": "60.00"
     },
     {
-      "name": "Batsman 4",
-      "runs": "0",
-      "balls": "0",
-      "m": "0",
-      "4s": "0",
+      "name": "Thaveesha Abishek ",
+      "runs": "72",
+      "balls": "78",
+      "4s": "8",
       "6s": "0",
-      "s/r": "0"
+      "s/r": "92.31"
     },
     {
-      "name": "Batsman 5",
-      "runs": "0",
-      "balls": "0",
-      "m": "0",
+      "name": "Duveen Kalnsooriya ",
+      "runs": "18",
+      "balls": "27",
+      "4s": "2",
+      "6s": "0",
+      "s/r": "66.67"
+    },
+    {
+      "name": "Dilum Sudheera ",
+      "runs": "16",
+      "balls": "32",
       "4s": "0",
       "6s": "0",
-      "s/r": "0"
+      "s/r": "50.00"
     }
   ],
-  "Mahinda Batters": [
+  "teamTwoName": "Mahinda College",
+  "teamTwoBall": [
     {
-      "name": "Batsman 1",
-      "runs": "0",
-      "balls": "0",
-      "m": "0",
-      "4s": "0",
-      "6s": "0",
-      "s/r": "0"
+      "name": "Nipun Malinga",
+      "overs": "13.0",
+      "maiden": "1",
+      "runs": "53",
+      "wickets": "2",
+      "econ": "4.08"
     },
     {
-      "name": "Batsman 2",
-      "runs": "0",
-      "balls": "0",
-      "m": "0",
-      "4s": "0",
-      "6s": "0",
-      "s/r": "0"
+      "name": "Prameeth Hansika",
+      "overs": "1.0",
+      "maiden": "0",
+      "runs": "9",
+      "wickets": "0",
+      "econ": "9.00"
     },
     {
-     "name": "Batsman 3",
-      "runs": "0",
-      "balls": "0",
-      "m": "0",
-      "4s": "0",
-      "6s": "0",
-      "s/r": "0"
+      "name": "Navod Paranawithana",
+      "overs": "8.0",
+      "maiden": "1",
+      "runs": "36",
+      "wickets": "0",
+      "econ": "4.50"
     },
     {
-      "name": "Batsman 4",
-      "runs": "0",
-      "balls": "0",
-      "m": "0",
-      "4s": "0",
-      "6s": "0",
-      "s/r": "0"
+      "name": "Kavindu Ediriweera",
+      "overs": "2.0",
+      "maiden": "0",
+      "runs": "6",
+      "wickets": "1",
+      "econ": "3.00"
     },
     {
-      "name": "Batsman 5",
-      "runs": "0",
-      "balls": "0",
-      "m": "0",
-      "4s": "0",
-      "6s": "0",
-      "s/r": "0"
+      "name": "Pasan Pethangoda",
+      "overs": "9.0",
+      "maiden": "1",
+      "runs": "46",
+      "wickets": "1",
+      "econ": "5.11"
     }
   ],
-   "Richmond Bowlers": [
+  "teamTwoBatting": [
     {
-      "name": "Bowler 1",
-      "overs": "0",
-      "maiden": "0",
+      "name": "Navod Paranawithana ",
       "runs": "0",
-      "wickets": "0",
-      "econ": "0"
+      "balls": "1",
+      "4s": "0",
+      "6s": "0",
+      "s/r": "0.00"
     },
     {
-       "name": "Bowler 2",
-      "overs": "0",
-      "maiden": "0",
-      "runs": "0",
-      "wickets": "0",
-      "econ": "0"
+      "name": "Hansika Welihinda (notout)",
+      "runs": "13",
+      "balls": "50",
+      "4s": "2",
+      "6s": "0",
+      "s/r": "26.00"
     },
     {
-      "name": "Bowler 3",
-      "overs": "0",
-      "maiden": "0",
-      "runs": "0",
-      "wickets": "0",
-      "econ": "0"
+      "name": "Vinura Dulsara ",
+      "runs": "2",
+      "balls": "22",
+      "4s": "0",
+      "6s": "0",
+      "s/r": "9.09"
     },
     {
-      "name": "Bowler 4",
-      "overs": "0",
-      "maiden": "0",
-      "runs": "0",
-      "wickets": "0",
-      "econ": "0"
-    },
-    {
-      "name": "Bowler 5",
-      "overs": "0",
-      "maiden": "0",
-      "runs": "0",
-      "wickets": "0",
-      "econ": "0"
+      "name": "Kavindu Ediriweera (notout)",
+      "runs": "2",
+      "balls": "17",
+      "4s": "0",
+      "6s": "0",
+      "s/r": "11.76"
     }
   ],
-  "Mahinda Bowlers": [
+  "teamOneBall": [
     {
-      "name": "Bowler 1",
-      "overs": "0",
-      "maiden": "0",
-      "runs": "0",
-      "wickets": "0",
-      "econ": "0"
+      "name": "Avindu Theekshana",
+      "overs": "7.0",
+      "maiden": "4",
+      "runs": "6",
+      "wickets": "2",
+      "econ": "0.86"
     },
     {
-      "name": "Bowler 2",
-      "overs": "0",
-      "maiden": "0",
-      "runs": "0",
+      "name": "Dilum Sudheera",
+      "overs": "4.0",
+      "maiden": "1",
+      "runs": "6",
       "wickets": "0",
-      "econ": "0"
+      "econ": "1.50"
     },
     {
-      "name": "Bowler 3",
-      "overs": "0",
-      "maiden": "0",
-      "runs": "0",
+      "name": "Sandun Mendis",
+      "overs": "3.0",
+      "maiden": "1",
+      "runs": "7",
       "wickets": "0",
-      "econ": "0"
+      "econ": "2.33"
     },
     {
-      "name": "Bowler 4",
-      "overs": "0",
+      "name": "Kamindu Mendis",
+      "overs": "1.0",
       "maiden": "0",
-      "runs": "0",
+      "runs": "1",
       "wickets": "0",
-      "econ": "0"
-    },
-    {
-      "name": "Bowler 5",
-      "overs": "0",
-      "maiden": "0",
-      "runs": "0",
-      "wickets": "0",
-      "econ": "0"
+      "econ": "1.00"
     }
   ]
 }
