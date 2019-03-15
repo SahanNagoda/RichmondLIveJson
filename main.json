@@ -1,6 +1,6 @@
 {
   "streamURL": "https://www.youtube.com/watch?v=qnJs9MUBhs0",
-  "scoreAPI": "https://raw.githubusercontent.com/Suvink/MekaJsonEkak/master/lq.json",
+  "scoreAPI": "http://loversquarrel.lk/api/api/v1/summary",
   "highlightsAPI": "https://raw.githubusercontent.com/Suvink/MekaJsonEkak/master/highlights.json",
   "scoreoardAPI": "http://loversquarrel.lk/api/api/v1/scorecard"
 }
