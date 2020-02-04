@@ -1,6 +1,6 @@
 {
   "streamURL": "https://www.youtube.com/watch?v=fqDx6d1IIEY",
-  "scoreAPI": "http://www.mocky.io/v2/5e3909373200006800ddf687",
+  "scoreAPI": "http://www.mocky.io/v2/5e3909e23200007f00ddf68b",
   "highlightsAPI": "https://raw.githubusercontent.com/Suvink/MekaJsonEkak/master/highlights.json",
   "scoreoardAPI": "http://loversquarrel.lk/api/api/v1/scorecard"
 }
